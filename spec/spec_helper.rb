@@ -7,6 +7,9 @@ require 'resque_scheduler'
 require 'resque_spec/scheduler'
 require 'timecop'
 require 'pry'
+require 'coveralls'
+
+Coveralls.wear!
 
 Dir[File.expand_path(File.join(File.dirname(__FILE__),'support','**','*.rb'))].each {|f| require f}
 

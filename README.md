@@ -3,6 +3,8 @@ ResqueSpec
 
 [![Build
 Status](https://travis-ci.org/leshill/resque_spec.png)](https://travis-ci.org/leshill/resque_spec])
+[![Coverage
+Status](https://coveralls.io/repos/dickeyxxx/resque_spec/badge.png)](https://coveralls.io/r/leshill/resque_spec)
 
 A test double of Resque for RSpec and Cucumber. The code was originally based
 on
